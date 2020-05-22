@@ -172,6 +172,10 @@ nav a {
     .nav__item {
         display: inline-block;
     }
+
+    .dropdown_toggle {
+        display: none;
+    }
 }
 
 @media (max-width: 800px){
