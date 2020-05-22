@@ -60,6 +60,10 @@ nav a {
     position: relative;
 }
 
+.dropdown_toggle {
+    display: none;
+}
+
 
 @media (max-width: 1360px) {
     header {
